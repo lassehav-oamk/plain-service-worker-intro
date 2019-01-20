@@ -21,4 +21,4 @@ This only demonstrates precached files.
 
 ## Credits
 
-The actual static site contents are from https://colorlib.com/wp/template/personal/ and the contents are under https://creativecommons.org/licenses/by/3.0/ licence.
+The actual static site contents are from https://colorlib.com/wp/template/personal/ and they are under https://creativecommons.org/licenses/by/3.0/ licence.
