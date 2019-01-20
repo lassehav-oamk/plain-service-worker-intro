@@ -1,0 +1,13 @@
+{
+  "name": "plain-service-worker-intro",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "npx http-server"
+  },
+  "author": "Lasse Haverinen",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
