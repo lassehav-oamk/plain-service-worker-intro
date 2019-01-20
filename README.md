@@ -17,3 +17,8 @@ Open browser in localhost:8080, open browser development tools (inspect element 
 The implementation of the service workers can be found from index.html as inline script and service-worker.js.
 
 This only demonstrates precached files. 
+
+
+## Credits
+
+The actual static site contents are from https://colorlib.com/wp/template/personal/ are the contents are under https://creativecommons.org/licenses/by/3.0/ licence.
